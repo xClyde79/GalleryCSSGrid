@@ -30,6 +30,7 @@ h1 {
 }
 
 .gallery__title {
+    visibility: hidden;
     opacity: 1;
     font-size: 15px;
     position: absolute;
